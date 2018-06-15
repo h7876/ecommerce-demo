@@ -1,0 +1,1 @@
+select a.productname, a.id, price, photo, quantity from cart b left join products a on a.id = b.productid

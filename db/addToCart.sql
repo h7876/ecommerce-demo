@@ -1,0 +1,1 @@
+insert into cart (productid, quantity) values ($1, $2)

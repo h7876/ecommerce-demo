@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400|Shadows+Into+Light');
+
+body {
+    justify-content: center;
+    padding-left: 25vw;
+    padding-right: 25vw;
+    width: 600px;
+    height: 400px
+}
+
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 50px;
+    border-bottom: 2px solid black;
+    padding: 5px;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif, bold;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+}
+
+.item {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    margin: 25px;
+    padding-bottom: 25px;
+    
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+.productButton {
+    background-color: #33ccff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.deleteButton {
+    background-color: #ff6666; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
